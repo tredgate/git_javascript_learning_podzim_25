@@ -1,1 +1,2 @@
 Random test text for lecture
+Add new line in text file
